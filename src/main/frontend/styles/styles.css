@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-bg {
+  @apply bg-blue-100 p-4;
+}
